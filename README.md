@@ -1,4 +1,3 @@
-# weather_data_etl
 # Weather Data ETL Project
 
 This is a simple ETL (Extract, Transform, Load) pipeline that collects weather data from a public weather API and stores it in a local SQLite database.
